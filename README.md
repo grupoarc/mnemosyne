@@ -1,5 +1,7 @@
-moinmoin-memodump
+mnemosyne
 =================
+
+A clone of memodump with a fancier name.  And other stuff, eventually.
 
 A simple [MoinMoin][] theme based on [Twitter Bootstrap][].  
 Comes with responsive navbar and sidebar.
